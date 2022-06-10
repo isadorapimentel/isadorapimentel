@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isadorapimentel
-- 👀 I’m interested in Analytics and Data Science
-- 🌱 I’m currently learning BI and DataWarehouve with SQL Server and PowerBI
+- 👀 I’m interested in Data Analytics, Data Science and Web Development
+- 🌱 I’m currently learning web development with html, css, javascript, nodeJS.
 - 💞️ I’m looking to collaborate on Data Science with Python, SQL and BI
 - 📫 Take a look in my LinkedIn profile: linkedin.com/isadorapimentel
 
